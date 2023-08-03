@@ -1,0 +1,2 @@
+# hdlsgn
+gözler yalan söylemez 
